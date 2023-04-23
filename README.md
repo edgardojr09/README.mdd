@@ -1,4 +1,5 @@
 FINAL ASSESMENT
+
 Solidity is a conrtract oriented high level programming. The purpose of this contract is to allow us to create new tokens, which can be mindted and burned as needed.
 
 ## Description
@@ -33,3 +34,15 @@ contract MyToken {
         }
     }
 }
+    After placing the code, you need to compile it with the solidity compiler. After that click the deploy button and copy the account number but before that click the     total supply to make sure the balance of the account is zero
+     
+    You need to paste the account and need to paste the mint address and need to input the value. The same will be done with the burn. Next, just copy the account         balance and click the call
+    
+   ## Autors
+   Edgardo L. Delos Angeles
+   8214005@ntc.edu.ph
+   
+   ## License
+   This project licensed under the MIT license - see the license.md file for details
+   
+ 
