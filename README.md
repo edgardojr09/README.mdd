@@ -34,8 +34,8 @@ contract MyToken {
         }
     }
 }
+    
     After placing the code, you need to compile it with the solidity compiler. After that click the deploy button and copy the account number but before that click the     total supply to make sure the balance of the account is zero
-     
     You need to paste the account and need to paste the mint address and need to input the value. The same will be done with the burn. Next, just copy the account         balance and click the call
     
    ## Autors
